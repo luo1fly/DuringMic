@@ -1,0 +1,2 @@
+# DuringMic
+scripts during mic
